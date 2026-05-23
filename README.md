@@ -39,8 +39,8 @@ Para completar satisfactoriamente esta tarea, el estudiante deberá entregar:
 
 ## Entregar:
 
-1. Repositorio en git.
+**1.** Repositorio en git.
 
-2. Proyecto comprimido.
+**2.** Proyecto comprimido.
 
-3. Informe -> en .pdf
+**3.** Informe -> en .pdf
