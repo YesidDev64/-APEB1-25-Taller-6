@@ -14,19 +14,19 @@ Para completar satisfactoriamente esta tarea, el estudiante deberá entregar:
 
 **1. Código Fuente:** Proyecto Java completo que incluya:
 
- -Clase modelo PartidoPadel correctamente encapsulada e implementando Serializable.
+ - Clase modelo PartidoPadel correctamente encapsulada e implementando Serializable.
 
- -Clase GestorPadelBinario con métodos para guardar/cargar objetos.
+ - Clase GestorPadelBinario con métodos para guardar/cargar objetos.
 
- -Clase GestorPadelTexto con métodos para escritura/lectura en formato plano.
+ - Clase GestorPadelTexto con métodos para escritura/lectura en formato plano.
 
- -Clase Main que demuestre el flujo completo (creación, guardado, carga y visualización).
+ - Clase Main que demuestre el flujo completo (creación, guardado, carga y visualización).
 
 **2. Informe de Resultados (Breve):** Un documento (o comentario en el código) donde el estudiante responda:
 
- -¿Qué sucede si intentas abrir el archivo .dat con un editor de texto?
+ - ¿Qué sucede si intentas abrir el archivo .dat con un editor de texto?
 
- -¿Cuál es el principal inconveniente de usar .txt frente a .dat cuando el sistema crece en complejidad (muchos atributos o clases relacionadas)?
+ - ¿Cuál es el principal inconveniente de usar .txt frente a .dat cuando el sistema crece en complejidad (muchos atributos o clases relacionadas)?
 
 ## Competencias a Desarrollar
 **Gestión de Archivos:** Dominio del paquete java.io y manejo de flujos de datos (streams).
